@@ -1,11 +1,9 @@
-<!-- =============================== -->
-<!-- Roshan Singh | QA Lead          -->
-<!-- =============================== -->
+<!-- ================================================== -->
+<!-- Roshan Singh | QA Lead | Quality Engineering       -->
+<!-- ================================================== -->
 
 <h1 align="center">Hey 👋 I'm Roshan</h1>
-<h3 align="center">
-QA Lead • Automation • API • CI/CD • Quality Architecture
-</h3>
+<h3 align="center">QA Lead • Automation • API • CI/CD • Quality Architecture</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roshan-singh17/">LinkedIn</a> ·
@@ -18,37 +16,40 @@ QA Lead • Automation • API • CI/CD • Quality Architecture
 
 ---
 
-## 🧩 About me
+## 🧩 About me (in code)
 
 ```js
 const roshan = {
   role: "QA Lead",
   experience: "7+ years",
   worksWith: ["Web", "API", "Automation", "AI-driven systems"],
-  interests: [
-    "test automation architecture",
-    "API quality & validation",
-    "CI/CD driven testing",
-    "performance & scalability"
+  focusAreas: [
+    "Test Automation Architecture",
+    "API Quality & Validation",
+    "CI/CD-driven Testing",
+    "Performance & Scalability"
   ],
-  philosophy: "Quality should be built into the system, not tested at the end"
+  philosophy: "Quality is a system property, not a phase"
 };
-I work on making releases boring —
-predictable pipelines, stable automation, and fewer surprises in production.
+```
 
-🧠 What I enjoy working on
-Designing automation frameworks that survive refactors
+I work on **making releases boring** — predictable pipelines, reliable automation, and fewer surprises in production.
 
-Building API test layers that catch failures early
+---
 
-Embedding QA into CI/CD pipelines as quality gates
+## 🧠 What I like working on
 
-Validating performance before users feel it
+- Designing automation frameworks that survive refactors  
+- Building API test layers that fail fast  
+- Embedding QA into CI/CD as quality gates  
+- Validating performance before users feel it  
+- Mentoring junior QA engineers and interns  
 
-Mentoring junior QAs and interns
+---
 
-🛠 Tech & tools
+## 🛠 Tools I actually use
 
+```text
 Languages      : Java, Python
 UI Automation  : Selenium, Pytest
 API Testing    : RestAssured, requests, Postman
@@ -56,43 +57,64 @@ CI/CD          : Jenkins, GitHub Actions
 Performance    : JMeter, Locust
 Cloud & Infra  : AWS, Docker
 DB & OS        : SQL, Linux
-(tools I actually use, not buzzwords)
+```
 
-📦 What you’ll find here
-Hybrid automation frameworks (UI + API)
+(no buzzwords — just day-to-day tools)
 
-API regression & validation setups
+---
 
-CI/CD-integrated test pipelines
+## 📦 What you’ll find here
 
-Performance testing utilities
+- Hybrid automation frameworks (UI + API)
+- API regression & validation setups
+- CI/CD-integrated test pipelines
+- Performance testing utilities
 
-Most repositories are built from real production problems, not tutorials.
+Built from **real production problems**, not tutorials.
 
-📊 GitHub in numbers
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&hide_border=true&theme=github_dark" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan1704&theme=github_dark&hide_border=true" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&hide_border=true&theme=github_dark" /> </p>
-🧪 Currently exploring
-Making automation more reliable inside CI
+---
 
-Faster regression without losing signal
+## 📊 GitHub activity (because numbers exist)
 
-Smarter API failure detection
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&hide_border=true&theme=github_dark" />
+</p>
 
-Scaling quality for complex systems
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan1704&theme=github_dark&hide_border=true" />
+</p>
 
-☕ A bit outside work
-I like clean test architecture
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&hide_border=true&theme=github_dark" />
+</p>
 
-Calm releases > heroic fixes
+---
 
-Helping teams ship with confidence
+## 🧪 Currently exploring
 
-Turning QA interns into engineers
+- Making automation more reliable inside CI
+- Faster regression without losing signal
+- Smarter API failure detection
+- Scaling quality for complex systems
 
-Quality is not owned by QA alone — it’s owned by the system.
+---
 
-📫 Let’s connect
-🔗 LinkedIn: https://www.linkedin.com/in/roshan-singh17
-📧 Email: rimport17@gmail.com
+## ☕ Outside work
 
-<!-- =============================== --> <!-- End of README --> <!-- =============================== -->
+- Clean test architecture
+- Calm releases > heroic fixes
+- Helping teams ship with confidence
+- Turning QA interns into engineers
+
+> Quality is not owned by QA alone — it’s owned by the system.
+
+---
+
+## 📫 Reach me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/roshan-singh17  
+- 📧 Email: rimport17@gmail.com  
+
+<!-- ================================================== -->
+<!-- End of README                                      -->
+<!-- ================================================== -->
