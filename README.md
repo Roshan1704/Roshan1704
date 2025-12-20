@@ -59,8 +59,6 @@ Cloud & Infra  : AWS, Docker
 DB & OS        : SQL, Linux
 ```
 
-(no buzzwords — just day-to-day tools)
-
 ---
 
 ## 📦 What you’ll find here
