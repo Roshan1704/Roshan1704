@@ -1,18 +1,19 @@
-<!-- =============================== -->
-<!-- Roshan Singh | QA Lead          -->
-<!-- =============================== -->
+<!-- ========================================================= -->
+<!-- Roshan Singh | Quality Engineering                        -->
+<!-- ========================================================= -->
 
-<h1 align="center">Roshan Singh</h1>
 <p align="center">
-QA Lead • Automation • API • CI/CD • Quality Architecture
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Roshan%20Singh&fontColor=ffffff&fontSize=42&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <b>QA Lead</b> · Automation · API · CI/CD · Quality Architecture
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roshan-singh17/">LinkedIn</a> ·
   <a href="mailto:rimport17@gmail.com">Email</a>
 </p>
-
-<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Roshan1704&style=flat&color=grey" />
@@ -21,36 +22,36 @@ QA Lead • Automation • API • CI/CD • Quality Architecture
 ---
 
 <p align="center">
-I build quality systems that scale.
+  <i>I design quality systems that scale.</i>
 </p>
 
 ---
 
-## 🧠 Focus
+### ▸ focus
 
 <p align="center">
-Test Automation Architecture · API Quality · CI/CD Testing · Performance · AI Systems
+automation architecture · api reliability · ci/cd testing · performance · ai systems
 </p>
 
 ---
 
-## 🛠 Tech
+### ▸ tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,selenium,pytest,jenkins,githubactions,docker,aws,linux,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,selenium,pytest,jenkins,githubactions,docker,aws,linux,mysql&theme=dark" />
 </p>
 
 ---
 
-## 📦 Work
+### ▸ what lives here
 
 <p align="center">
-Hybrid automation frameworks • API validation suites • CI/CD quality gates • Performance testing utilities
+hybrid automation frameworks · api validation suites · ci/cd quality gates · performance utilities
 </p>
 
 ---
 
-## 📊 Activity
+### ▸ stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&hide_border=true&theme=github_dark" />
@@ -62,22 +63,20 @@ Hybrid automation frameworks • API validation suites • CI/CD quality gates �
 
 ---
 
-## 🧪 Now
+### ▸ currently
 
 <p align="center">
-Making automation reliable in CI · Faster regression · Smarter API failure detection
+making automation reliable in ci · faster regression · smarter api failures
 </p>
 
 ---
 
-## ☕ Philosophy
+### ▸ philosophy
 
 <p align="center">
-Quality is not a phase. It’s a system property.
+quality is not a phase — it’s a system property
 </p>
 
----
-
 <p align="center">
-—  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer" />
 </p>
