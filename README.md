@@ -29,7 +29,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/> -->
 
 
 📍 **Delhi, India**
@@ -62,7 +62,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="60" /> GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/Roshan1704">
@@ -80,10 +80,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&column=5&no-frame=true"/>
   </a>
 </div>
-
-
-
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
