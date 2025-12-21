@@ -75,11 +75,11 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Roshan1704?tab=achievements">
     <img height="30" src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&column=5&no-frame=true"/>
   </a>
-</div>
+</div> -->
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
@@ -156,7 +156,7 @@
 <a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Java-Automation-Framework-Cucumber"/></a>
 </div>
 <div> 
-  <a href="https://github.com/Roshan1704/Java_progamming_Challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Java_progamming_Challenge"/></a>
+<a href="https://github.com/Roshan1704/Java_progamming_Challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Java_progamming_Challenge"/></a>
 </div>
 
 ### 📊 Top Repositories
