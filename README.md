@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/💼_7%2B_Years_QA_Engineer-abd200?style=for-the-badge" alt="Experience"/>
   
  <a href="#-top-repositories">
-  <img src="https://img.shields.io/badge/📦View_Repositories-abd200?style=for-the-badge&color=abd200" alt="View Repositories"/>
+  <img src="https://img.shields.io/badge/📦Top_Repositories-abd200?style=for-the-badge&color=abd200" alt="View Repositories"/>
 </a>
 
 </p>
