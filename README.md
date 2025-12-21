@@ -67,12 +67,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true"/>
   <img src="https://streak-stats.demolab.com?user=Roshan1704&theme=merko&hide_border=true&background=0d1117&stroke=abd200&ring=abd200&fire=ff6b6b&currStreakLabel=abd200" alt="GitHub Streak"/>
-  <img src="https://streak-stats.demolab.com?user=Roshan1704&theme=merko&hide_border=true&background=0d1117&stroke=abd200&ring=abd200&fire=ff6b6b&currStreakLabel=abd200" alt="GitHub Streak"/>
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 ---
