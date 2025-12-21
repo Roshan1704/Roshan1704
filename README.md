@@ -70,11 +70,11 @@
   </a>
 
   <a href="https://github.com/Roshan1704">
-    <img height="180" src="https://streak-stats.demolab.com?user=Roshan1704&theme=merko&hide_border=true&background=0d1117&stroke=abd200&ring=abd200&fire=ff6b6b&currStreakLabel=abd200" alt="GitHub Streak"/>
+    <img height="180" src="https://streak-stats.demolab.com?user=Roshan1704&theme=merko&hide_border=true&background=0d1117&stroke=abd200&ring=abd200&fire=ff6b6b&currStreakLabel=abd200"/>
   </a>
 
   <a href="https://github.com/Roshan1704?tab=achievements">
-    <img height="180" src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+    <img height="180" src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&no-frame=true&no-bg=true&column=4"/>
   </a>
 </div>
 
