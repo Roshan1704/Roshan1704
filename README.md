@@ -34,7 +34,7 @@
 
 📍 **Delhi, India**
 
-💼 **7+ years designing scalable test automation**
+💼 **7+ years building automation & quality systems**
 
 🔭 Currently working on **[RestAssured_Framework](https://github.com/Roshan1704/RestAssured_Framework)**
 
