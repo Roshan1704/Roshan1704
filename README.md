@@ -147,7 +147,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
 
 <!-- <div align="center"> -->
-<div>
 <a href="https://github.com/Roshan1704/RestAssured_Framework">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework
   &hide_border=true
