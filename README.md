@@ -62,7 +62,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="180" /> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/Roshan1704">
@@ -75,11 +75,11 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Roshan1704?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&column=5&no-frame=true"/>
   </a>
-</div>
+</div> -->
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
