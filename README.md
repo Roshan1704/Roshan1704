@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Roshan1704">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Automation%20%C2%B7%20CI%2FCD%20%C2%B7%20Quality%20Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&repeat=true&width=600&height=45&lines=QA%20Automation%20%C2%B7%20CI%2FCD%20%C2%B7%20Quality%20Architecture" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
