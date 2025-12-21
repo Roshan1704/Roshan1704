@@ -12,7 +12,6 @@
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Roshan-abd200?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/💼_7%2B_Years_QA_Engineer-abd200?style=for-the-badge" alt="Experience"/>
   
   <img src="https://komarev.com/ghpvc/?username=Roshan1704&style=for-the-badge&color=abd200" alt="views"/>
