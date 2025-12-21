@@ -52,7 +52,7 @@
 ### 🤝 Open For
 
 <p>
-<img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring"/>
+<img src="https://img.shields.io/badge/💼_Job_Opportunities-Open-success?style=for-the-badge" alt="Job Opportunities"/>
 <img src="https://img.shields.io/badge/🤝_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
 <img src="https://img.shields.io/badge/💰_Freelance-Available-orange?style=for-the-badge" alt="Freelance"/>
 <img src="https://img.shields.io/badge/🎤_Speaking-Interested-purple?style=for-the-badge" alt="Speaking"/>
