@@ -61,27 +61,6 @@
 
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Roshan1704">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117"/>
-  </a>
-  <a href="https://github.com/Roshan1704">
-    <img height="180" src="https://streak-stats.demolab.com?user=Roshan1704&theme=merko&hide_border=true"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- <div align="center">
-  <a href="https://github.com/Roshan1704?tab=achievements">
-    <img height="30" src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&column=5&no-frame=true"/>
-  </a>
-</div> -->
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
 
 <table>
@@ -145,6 +124,20 @@
 </tr>
 </table>
 
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
+
+<div align="center">
+
+| 🏆 Achievement | 📊 Status |
+|:-------------:|:---------:|
+| 🎂 7+ Years as QA | ✅ Unlocked |
+| 💻 QA Automation | ✅ Unlocked |
+| 💻 QA Framework Development | ✅ Unlocked |
+| 💻 QA Architecture | ✅ Unlocked |
+
+</div>
 
 ---
 
@@ -158,6 +151,27 @@
 <div> 
 <a href="https://github.com/Roshan1704/Java_progamming_Challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Java_progamming_Challenge"/></a>
 </div>
+
+---
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/Roshan1704">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117"/>
+  </a>
+  <a href="https://github.com/Roshan1704">
+    <img height="180" src="https://streak-stats.demolab.com?user=Roshan1704&theme=merko&hide_border=true"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- <div align="center">
+  <a href="https://github.com/Roshan1704?tab=achievements">
+    <img height="30" src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&column=5&no-frame=true"/>
+  </a>
+</div> -->
+---
 
 ### 📊 Top Repositories
 
@@ -199,23 +213,6 @@
 <p align="center">
   <i>💡 Total of <b>14</b> repositories</i>
 </p>
-
-
----
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📊 Status |
-|:-------------:|:---------:|
-| 🎂 7+ Years as QA | ✅ Unlocked |
-| 💻 QA Automation | ✅ Unlocked |
-| 💻 QA Framework Development | ✅ Unlocked |
-| 💻 QA Architecture | ✅ Unlocked |
-
-</div>
 
 ---
 
