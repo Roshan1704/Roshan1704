@@ -66,7 +66,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
@@ -151,10 +150,7 @@
 <div align="center">
 
 <a href="https://github.com/Roshan1704/RestAssured_Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="RestAssured_Framework"/></a>
-<a href="https://github.com/Roshan1704/Roshan1704"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Roshan1704&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Roshan1704"/></a>
 <a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Java-Automation-Framework-Cucumber"/></a>
-<a href="https://github.com/Roshan1704/reqres_CCL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=reqres_CCL&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="reqres_CCL"/></a>
-<a href="https://github.com/Roshan1704/Data-Science"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Data-Science&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Data-Science"/></a>
 <a href="https://github.com/Roshan1704/Java_progamming_Challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Java_progamming_Challenge"/></a>
 
 </div>
@@ -180,32 +176,11 @@
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Roshan1704/Roshan1704"><b>Roshan1704</b></a></td>
-<td>Config files for my GitHub profile.</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
 <td><a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber"><b>Java-Automation-Framework-Cucumber</b></a></td>
 <td>A comprehensive Selenium WebDriver-based test automation fra...</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Roshan1704/reqres_CCL"><b>reqres_CCL</b></a></td>
-<td>Assignment for Senior QA Engineer at Cybernetic Controls Lim...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Roshan1704/Data-Science"><b>Data-Science</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Jupyter%20Notebook-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Roshan1704/Java_progamming_Challenge"><b>Java_progamming_Challenge</b></a></td>
