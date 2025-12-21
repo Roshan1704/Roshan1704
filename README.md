@@ -13,7 +13,7 @@
 <!-- PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Roshan-abd200?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/6+_Years-On_GitHub-abd200?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/💼_7%2B_Years_QA_Engineer-abd200?style=for-the-badge" alt="Experience"/>
   
   <img src="https://komarev.com/ghpvc/?username=Roshan1704&style=for-the-badge&color=abd200" alt="views"/>
 </p>
@@ -210,8 +210,10 @@
 
 | 🏆 Achievement | 📊 Status |
 |:-------------:|:---------:|
-| 🎂 5+ Years on GitHub | ✅ Unlocked |
-| 💻 Java Expert | ✅ Unlocked |
+| 🎂 7+ Years as QA | ✅ Unlocked |
+| 💻 QA Automation | ✅ Unlocked |
+| 💻 QA Framework Development | ✅ Unlocked |
+| 💻 QA Architecture | ✅ Unlocked |
 
 </div>
 
