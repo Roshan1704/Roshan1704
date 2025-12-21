@@ -3,19 +3,19 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff79c6,100:0d1117&height=200&section=header&text=Roshan%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Roshan%20Singh&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Roshan%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Roshan%20Singh&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Roshan1704">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Automation%20%C2%B7%20CI%2FCD%20%C2%B7%20Quality%20Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Automation%20%C2%B7%20CI%2FCD%20%C2%B7%20Quality%20Architecture" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Roshan-ff79c6?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/6+_Years-On_GitHub-ff79c6?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/Focus-Roshan-70a5fd?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/7+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
   
-  <img src="https://komarev.com/ghpvc/?username=Roshan1704&style=for-the-badge&color=ff79c6" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Roshan1704&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -29,16 +29,17 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/> -->
 
 
 📍 **Delhi, India**
 
 💼 **7+ years in Automation**
 
-🔭 Currently working on **[RestAssured_Framework](https://github.com/Roshan1704/RestAssured_Framework)**
+🔭 Currently working on **[Java-Automation-Framework
+](https://github.com/Roshan1704/Java-Automation-Framework-Cucumber)** and **[RestAssured_Framework](https://github.com/Roshan1704/RestAssured_Framework)**
 
-🌱 Currently learning **QA Architecture, Gen AI**
+🌱 Currently learning **QA Architecture, Gen AI, QAOps**
 
 💬 Ask me about **Test Automation & Quality Architecture | Selenium, Java, RestAssured, CI/CD, AWS | Scaling Quality for Web, API & AI Systems**
 
@@ -52,7 +53,7 @@
 ### 🤝 Open For
 
 <p>
-<img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring"/>
+<img src="https://img.shields.io/badge/💼_Job_Opportunities-Open-success?style=for-the-badge" alt="Job Opportunities"/>
 <img src="https://img.shields.io/badge/🤝_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
 <img src="https://img.shields.io/badge/💰_Freelance-Available-orange?style=for-the-badge" alt="Freelance"/>
 <img src="https://img.shields.io/badge/🎤_Speaking-Interested-purple?style=for-the-badge" alt="Speaking"/>
@@ -65,17 +66,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Roshan1704&theme=dracula&hide_border=true&background=0d1117&stroke=ff79c6&ring=ff79c6&fire=ff6b6b&currStreakLabel=ff79c6" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Roshan1704&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 ---
@@ -150,12 +151,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Roshan1704/RestAssured_Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="RestAssured_Framework"/></a>
-<a href="https://github.com/Roshan1704/Roshan1704"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Roshan1704&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="Roshan1704"/></a>
-<a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="Java-Automation-Framework-Cucumber"/></a>
-<a href="https://github.com/Roshan1704/reqres_CCL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=reqres_CCL&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="reqres_CCL"/></a>
-<a href="https://github.com/Roshan1704/Data-Science"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Data-Science&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="Data-Science"/></a>
-<a href="https://github.com/Roshan1704/Java_progamming_Challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="Java_progamming_Challenge"/></a>
+<a href="https://github.com/Roshan1704/RestAssured_Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="RestAssured_Framework"/></a>
+<a href="https://github.com/Roshan1704/Roshan1704"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Roshan1704&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Roshan1704"/></a>
+<a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Java-Automation-Framework-Cucumber"/></a>
+<a href="https://github.com/Roshan1704/reqres_CCL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=reqres_CCL&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="reqres_CCL"/></a>
+<a href="https://github.com/Roshan1704/Data-Science"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Data-Science&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Data-Science"/></a>
+<a href="https://github.com/Roshan1704/Java_progamming_Challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Java_progamming_Challenge"/></a>
 
 </div>
 
@@ -277,7 +278,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff79c6,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
 
 **⭐ From [Roshan1704](https://github.com/Roshan1704) with ❤️**
 
