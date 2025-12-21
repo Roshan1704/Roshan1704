@@ -36,7 +36,7 @@
 
 💼 **7+ years in Automation**
 
-🔭 Currently working on **[Java-Automation-Framework-Cucumber
+🔭 Currently working on **[Java-Automation-Framework
 ](https://github.com/Roshan1704/Java-Automation-Framework-Cucumber)** and **[RestAssured_Framework](https://github.com/Roshan1704/RestAssured_Framework)**
 
 🌱 Currently learning **QA Architecture, Gen AI**
