@@ -144,36 +144,28 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30" height="30" /> Featured Projects
 
-<!-- <div align="center"> -->
+<div align="center">
+
 <a href="https://github.com/Roshan1704/RestAssured_Framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework
-  &hide_border=true
-  &bg_color=0d1117
-  &title_color=58a6ff
-  &icon_color=58a6ff
-  &text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber
-  &hide_border=true
-  &bg_color=0d1117
-  &title_color=58a6ff
-  &icon_color=58a6ff
-  &text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
+
 </div>
-<div> 
+
+<br/>
+
+<div align="center">
+
 <a href="https://github.com/Roshan1704/Java_progamming_Challenge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge
-  &hide_border=true
-  &bg_color=0d1117
-  &title_color=58a6ff
-  &icon_color=58a6ff
-  &text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
+
 </div>
 
 ---
