@@ -13,7 +13,7 @@
 <!-- PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Roshan-70a5fd?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/6+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/7+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
   
   <img src="https://komarev.com/ghpvc/?username=Roshan1704&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
