@@ -77,9 +77,10 @@
 
 <div align="center">
   <a href="https://github.com/Roshan1704?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&no-frame=true&column=6"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&column=5&no-frame=true"/>
   </a>
 </div>
+
 
 
 
