@@ -152,7 +152,7 @@
 
 <!-- <div align="center"> -->
 
-<a href="https://github.com/Roshan1704/RestAssured_Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="RestAssured_Framework"/></a>
+<a href="https://github.com/Roshan1704/RestAssured_Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9&cache_seconds=0" alt="RestAssured_Framework"/></a>
 <a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Java-Automation-Framework-Cucumber"/></a>
 </div>
 <div> 
