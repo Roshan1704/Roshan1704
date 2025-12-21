@@ -3,19 +3,19 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:abd200,100:0d1117&height=200&section=header&text=Roshan%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Lead%20%E2%80%A2%20Quality%20Engineering&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70A5FD,100:0d1117&height=200&section=header&text=Roshan%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Lead%20%E2%80%A2%20Quality%20Engineering&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Roshan1704">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ABD200&center=true&vCenter=true&repeat=true&width=600&height=45&lines=QA%20Automation%20%C2%B7%20CI%2FCD%20%C2%B7%20Quality%20Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=45&lines=QA%20Automation%20%C2%B7%20CI%2FCD%20%C2%B7%20Quality%20Architecture" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/💼_7%2B_Years_QA_Engineer-abd200?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/💼_7%2B_Years_QA_Engineer-70A5FD?style=for-the-badge" alt="Experience"/>
   
  <a href="#-top-repositories">
-  <img src="https://img.shields.io/badge/📦Top_Repositories-abd200?style=for-the-badge&color=abd200" alt="View Repositories"/>
+  <img src="https://img.shields.io/badge/📦Top_Repositories-70A5FD?style=for-the-badge&color=70A5FD" alt="View Repositories"/>
 </a>
 
 </p>
@@ -148,11 +148,11 @@
 
 <!-- <div align="center"> -->
 
-<a href="https://github.com/Roshan1704/RestAssured_Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9&cache_seconds=0" alt="RestAssured_Framework"/></a>
-<a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Java-Automation-Framework-Cucumber"/></a>
+<a href="https://github.com/Roshan1704/RestAssured_Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=merko&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=c9d1d9&cache_seconds=0" alt="RestAssured_Framework"/></a>
+<a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=merko&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=c9d1d9" alt="Java-Automation-Framework-Cucumber"/></a>
 </div>
 <div> 
-<a href="https://github.com/Roshan1704/Java_progamming_Challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&theme=merko&hide_border=true&bg_color=0d1117&title_color=abd200&icon_color=abd200&text_color=c9d1d9" alt="Java_progamming_Challenge"/></a>
+<a href="https://github.com/Roshan1704/Java_progamming_Challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&theme=merko&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=c9d1d9" alt="Java_progamming_Challenge"/></a>
 </div>
 
 ---
@@ -258,7 +258,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:abd200,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70A5FD,100:0d1117&height=120&section=footer" width="100%"/>
 
 **⭐ From [Roshan1704](https://github.com/Roshan1704) with ❤️**
 
