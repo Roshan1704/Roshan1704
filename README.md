@@ -64,7 +64,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
-<div align="center">
+<!-- <div align="center"> -->
   <a href="https://github.com/Roshan1704">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117"/>
   </a>
