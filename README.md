@@ -163,8 +163,8 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/Roshan1704/Java_progamming_Challenge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java_progamming_Challenge&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=0" />
+      <a href="https://github.com/Roshan1704/Java-Automation-Framework-Hybrid_POM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Hybrid_POM&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=0" />
       </a>
     </td>
   </tr>
@@ -222,7 +222,7 @@
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Roshan1704/Java_progamming_Challenge"><b>Java_progamming_Challenge</b></a></td>
+<td><a href="https://github.com/Roshan1704/Java-Automation-Framework-Hybrid_POM"><b>Java-Automation-Framework-Hybrid_POM</b></a></td>
 <td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
