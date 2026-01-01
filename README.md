@@ -152,19 +152,19 @@
   <tr>
     <td>
       <a href="https://github.com/Roshan1704/RestAssured_Framework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=0" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=github_dark&hide_border=true&v=1" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=0" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=github_dark&hide_border=true&v=1" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Roshan1704/Java-Automation-Framework-Hybrid_POM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Hybrid_POM&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=0" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Hybrid_POM&theme=github_dark&hide_border=true&v=1" />
       </a>
     </td>
   </tr>
@@ -178,10 +178,12 @@
 
 <div align="center">
   <a href="https://github.com/Roshan1704">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117"/>
+    <img height="180"
+      src="https://github-readme-stats.vercel.app/api?username=Roshan1704&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=1"/>
   </a>
   <a href="https://github.com/Roshan1704">
-    <img height="180" src="https://streak-stats.demolab.com?user=Roshan1704&theme=merko&hide_border=true"/>
+    <img height="180"
+      src="https://streak-stats.demolab.com?user=Roshan1704&theme=github-dark&hide_border=true"/>
   </a>
 </div>
 
@@ -189,10 +191,11 @@
 
 <!-- <div align="center">
   <a href="https://github.com/Roshan1704?tab=achievements">
-    <img height="30" src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=merko&column=5&no-frame=true"/>
+    <img height="30" src="https://github-profile-trophy.vercel.app/?username=Roshan1704&theme=github-dark&column=5&no-frame=true"/>
   </a>
 </div> -->
 ---
+
 
 ### 📊 Top Repositories
 
@@ -207,27 +210,49 @@
 </tr>
 </thead>
 <tbody>
+
 <tr>
 <td><a href="https://github.com/Roshan1704/RestAssured_Framework"><b>RestAssured_Framework</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
+<td>REST Assured based API automation framework</td>
+<td>
+  <img src="https://img.shields.io/github/stars/Roshan1704/RestAssured_Framework?style=flat-square"/>
+</td>
+<td>
+  <img src="https://img.shields.io/github/forks/Roshan1704/RestAssured_Framework?style=flat-square"/>
+</td>
+<td>
+  <img src="https://img.shields.io/github/languages/top/Roshan1704/RestAssured_Framework?style=flat-square"/>
+</td>
 </tr>
+
 <tr>
 <td><a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber"><b>Java-Automation-Framework-Cucumber</b></a></td>
-<td>A comprehensive Selenium WebDriver-based test automation fra...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
+<td>Selenium + Cucumber BDD automation framework</td>
+<td>
+  <img src="https://img.shields.io/github/stars/Roshan1704/Java-Automation-Framework-Cucumber?style=flat-square"/>
+</td>
+<td>
+  <img src="https://img.shields.io/github/forks/Roshan1704/Java-Automation-Framework-Cucumber?style=flat-square"/>
+</td>
+<td>
+  <img src="https://img.shields.io/github/languages/top/Roshan1704/Java-Automation-Framework-Cucumber?style=flat-square"/>
+</td>
 </tr>
+
 <tr>
 <td><a href="https://github.com/Roshan1704/Java-Automation-Framework-Hybrid_POM"><b>Java-Automation-Framework-Hybrid_POM</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
+<td>Hybrid POM-based Selenium automation framework</td>
+<td>
+  <img src="https://img.shields.io/github/stars/Roshan1704/Java-Automation-Framework-Hybrid_POM?style=flat-square"/>
+</td>
+<td>
+  <img src="https://img.shields.io/github/forks/Roshan1704/Java-Automation-Framework-Hybrid_POM?style=flat-square"/>
+</td>
+<td>
+  <img src="https://img.shields.io/github/languages/top/Roshan1704/Java-Automation-Framework-Hybrid_POM?style=flat-square"/>
+</td>
 </tr>
+
 </tbody>
 </table>
 
