@@ -35,11 +35,11 @@
 
 📍 **Delhi, India**
 
-I’m a <br>Senior QA Automation Engineer with 7+ years of experience <br> building <br> scalable, maintainable test automation frameworks <br> across <br> Web, API, and backend systems.<br>
+I’m a <b>Senior QA Automation Engineer with 7+ years of experience </b> building <b> scalable, maintainable test automation frameworks </b> across <b> Web, API, and backend systems.</b>
 
-I work closely with <br> engineering, DevOps, and product teams <br> to embed quality early in the SDLC and ensure fast, reliable releases through <br> automation-first strategies.<br>
+I work closely with <b> engineering, DevOps, and product teams </b> to embed quality early in the SDLC and ensure fast, reliable releases through <b> automation-first strategies.</b>
 
-My strength lies in <br> framework design, API automation, CI/CD integration<br>, and applying <br>strong engineering principles (DSA, clean code)<br> to testing utilities.
+My strength lies in <b> framework design, API automation, CI/CD integration</b>, and applying <b>strong engineering principles (DSA, clean code)</b> to testing utilities.
 
 💼 **7+ years building automation & quality systems**
 
