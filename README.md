@@ -33,8 +33,13 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1704&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/> -->
 
-
 📍 **Delhi, India**
+
+I’m a Senior QA Automation Engineer with 7+ years of experience building scalable, maintainable test automation frameworks across Web, API, and backend systems.
+
+I work closely with engineering, DevOps, and product teams to embed quality early in the SDLC and ensure fast, reliable releases through automation-first strategies.
+
+My strength lies in framework design, API automation, CI/CD integration, and applying strong engineering principles (DSA, clean code) to testing utilities.
 
 💼 **7+ years building automation & quality systems**
 
