@@ -146,31 +146,12 @@
 
 ## ⭐ Featured Projects
 
-<div align="center">
+[![RestAssured_Framework](https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=github_dark&hide_border=true)](https://github.com/Roshan1704/RestAssured_Framework)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Roshan1704/RestAssured_Framework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=RestAssured_Framework&theme=github_dark&hide_border=true&v=1" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Roshan1704/Java-Automation-Framework-Cucumber">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=github_dark&hide_border=true&v=1" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/Roshan1704/Java-Automation-Framework-Hybrid_POM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Hybrid_POM&theme=github_dark&hide_border=true&v=1" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Java-Automation-Framework-Cucumber](https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Cucumber&theme=github_dark&hide_border=true)](https://github.com/Roshan1704/Java-Automation-Framework-Cucumber)
 
-</div>
+[![Java-Automation-Framework-Hybrid_POM](https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Hybrid_POM&theme=github_dark&hide_border=true)](https://github.com/Roshan1704/Java-Automation-Framework-Hybrid_POM)
+
 
 
 ---
