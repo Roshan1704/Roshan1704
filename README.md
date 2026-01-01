@@ -47,7 +47,7 @@
 
 
 
-📦 **14** repositories
+📦 **15** repositories
 
 <br clear="right"/>
 
@@ -232,7 +232,7 @@
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>14</b> repositories</i>
+  <i>💡 Total of <b>15</b> repositories</i>
 </p>
 
 ---
@@ -247,7 +247,7 @@
 
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-14-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-15-green?style=for-the-badge" alt="Repos"/>
 </td>
 
 <td align="center">
