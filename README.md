@@ -52,7 +52,7 @@ My strength lies in <b> framework design, API automation, CI/CD integration</b>,
 
 
 
-📦 **15** repositories
+📦 **16** repositories
 
 <br clear="right"/>
 
@@ -172,6 +172,11 @@ My strength lies in <b> framework design, API automation, CI/CD integration</b>,
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Hybrid_POM&theme=github_dark&hide_border=true&v=1" />
       </a>
     </td>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Roshan1704/Java-Automation-Framework-Playwright">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roshan1704&repo=Java-Automation-Framework-Playwright&theme=github_dark&hide_border=true&v=1" />
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -258,11 +263,25 @@ My strength lies in <b> framework design, API automation, CI/CD integration</b>,
 </td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/Roshan1704/Java-Automation-Framework-Playwright"><b>Java-Automation-Framework-Playwright</b></a></td>
+<td>Playwright+Java+TestNg Framework</td>
+<td>
+  <img src="https://img.shields.io/github/stars/Roshan1704/Java-Automation-Framework-Playwright?style=flat-square"/>
+</td>
+<td>
+  <img src="https://img.shields.io/github/forks/Roshan1704/Java-Automation-Framework-Playwright?style=flat-square"/>
+</td>
+<td>
+  <img src="https://img.shields.io/github/languages/top/Roshan1704/Java-Automation-Framework-Playwright?style=flat-square"/>
+</td>
+</tr>
+
 </tbody>
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>15</b> repositories</i>
+  <i>💡 Total of <b>16</b> repositories</i>
 </p>
 
 ---
@@ -277,7 +296,7 @@ My strength lies in <b> framework design, API automation, CI/CD integration</b>,
 
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-15-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-16-green?style=for-the-badge" alt="Repos"/>
 </td>
 
 <td align="center">
