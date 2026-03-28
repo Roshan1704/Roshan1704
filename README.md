@@ -22,7 +22,7 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.linkedin.com/in/roshan-singh17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:rimport17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://roshansingh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a> 
+<a href="https://www.linkedin.com/in/roshan-singh17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:rimport17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://roshansingh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-0A192F?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a> 
 </p>
 
 </div>
